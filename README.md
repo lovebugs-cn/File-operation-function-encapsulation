@@ -1,1 +1,6 @@
-# File-operation-function-encapsulation
+## file.func_1:文件的基本操作简单的函数封装
+*  创建文件  
+*  删除文件  
+*  拷贝文件  
+*  重命名文件  
+*  剪切文件
